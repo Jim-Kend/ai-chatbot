@@ -1,7 +1,7 @@
 "use client";
 
 import { useChat } from "@ai-sdk/react";
-import { useState, useRef, useEffect } from "react";
+import { useRef, useEffect } from "react";
 import { Send } from "lucide-react";
 
 export default function Chat() {
